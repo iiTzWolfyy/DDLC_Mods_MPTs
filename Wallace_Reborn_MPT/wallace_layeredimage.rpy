@@ -1,6 +1,6 @@
 init python:
 
-    path = "mod_assets/MPT/wallace_reborn_MPT/" ### Global path to the folder of Wallace's MPT
+    path = "mod_assets/MPT/Wallace_Reborn_MPT/" ### Global path to the folder of Wallace's MPT
                                                 ### That way, you can change it easily without replacing everything!
 
 

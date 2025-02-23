@@ -3,11 +3,13 @@ CREDITS
 Make sure to credit:
 
 - Etched for making the original Natsuki bikini sprite!
-- Me (as 'iitzwolfyytherenewal' on Discord or 'iiTzWolfyy' on Reddit, but preferably Discord)
+- Me iitzwolfyy_ on Discord or iiTzWolfyy on Reddit, but preferably Discord
 
 ---------
 
 SETUP - Please make sure to contact me if you have any troubles with anything, using my contacts above :)
+
+Note: Natsuki doesn't have a cross pose for this outfit!
 
 I'll assume you already have the Natsuki's MPT in your project, as well as a 'mod_assets/MPT/' folder.
 Another important thing, the syntax for this sprite is the same than the original MPT, except for the attributes

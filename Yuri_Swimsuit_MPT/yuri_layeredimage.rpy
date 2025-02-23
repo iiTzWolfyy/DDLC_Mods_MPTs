@@ -1,5 +1,5 @@
 init python: ###ADD THIS BLOCK
-    path = "mod_assets/MPT/yuri_swimsuit_MPT/" # I added this so that you can easily change the path of the swimsuit folder 
+    path = "mod_assets/MPT/Yuri_Swimsuit_MPT/" # I added this so that you can easily change the path of the swimsuit folder 
                                                 # once and for all instead of doing this for each attribute.
 
 

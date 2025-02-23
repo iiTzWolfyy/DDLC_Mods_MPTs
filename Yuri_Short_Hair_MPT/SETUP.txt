@@ -1,5 +1,6 @@
-To get this MPT to work, simply put the 'yuri_short_hair' folder into your 'mod_assets/MPT/' folder
-of your mod !
+To get this MPT to work, simply put the 'Yuri_Short_Hair_MPT' folder into your 'mod_assets/MPT/' folder
+of your mod! I'd also recommend reading its content, a lot of information can be found there.
+Also, the Cheat Sheet is here to help you with her poses and expressions!
 
-Don't forget to see the credits_assets.txt file to properly credit each person that made
+Don't forget to see the Credits_assets.txt file to properly credit each person that made
 that MPT possible, including myself, iiTzWolfyy :)

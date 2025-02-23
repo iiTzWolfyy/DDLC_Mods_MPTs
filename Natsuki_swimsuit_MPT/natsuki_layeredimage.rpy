@@ -181,7 +181,7 @@ image nat_fs_b3:
 
 
 init python: ###ADD THIS BLOCK
-    path = "mod_assets/MPT/natsuki_swimsuit_MPT/" # I added this so that you can easily change the path of the swimsuit folder 
+    path = "mod_assets/MPT/Natsuki_Swimsuit_MPT/" # I added this so that you can easily change the path of the swimsuit folder 
                                                 # once and for all instead of doing this for each attribute.
 
 layeredimage natsuki turned:

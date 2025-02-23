@@ -1,4 +1,4 @@
-In order for that layeredimage to work, you have to copy the 'skinny_mc_mpt' folder and paste it in your 
+In order for that layeredimage to work, you have to copy the 'Skinny_MC_MPT' folder and paste it in your 
 DDLC project (best would be game/mod_assets/). Please take a look in the skinny_mc_layeredimage.rpy file
 to edit the path of the assets to suit your needs.
 

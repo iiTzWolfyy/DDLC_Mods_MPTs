@@ -11,14 +11,14 @@ https://childish-n.deviantart.com/art/DDLC-Protagonist-Sprite-715239172
 
 New Wallace sprites : Blue Quacker (Discord: bluequacker)
 
-MPT edits: iiTzWolfyy (Discord: iitzwolfyytherenewal)
+MPT edits: iiTzWolfyy (Discord: iitzwolfyy_)
 
 --
 
 First thing, if you EVER have any problem regarding this MPT, feel free to add my Discord (mentioned above)
 or my Reddit (u/iiTzWolfyy) :)
 
-To install the MPT, it's simple: simply copy/paste the main folder, called 'wallace_reborn_MPT' into your
+To install the MPT, it's simple: simply copy/paste the main folder, called 'Wallace_Reborn_MPT' into your
 'mod_assets/MPT/' folder. If you take a look at the wallace_layeredimage.rpy file, there is a variable
 called 'path' in the beginning. If the default path I've set doesn't suit you, you can just change it,
 everything's still going to work!

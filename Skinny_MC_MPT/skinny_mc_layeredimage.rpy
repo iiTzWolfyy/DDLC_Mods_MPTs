@@ -5,7 +5,7 @@ init python:
     # IMPORTANT: the following variable defines the path to your layeredimage folder starting from the
     # game folder, so change it according to your own path!! (here, that would be game/mod_assets/MPT/skinny_mc_mpt/...)
     # Basically, only the part before "skinny_mc_mpt" has to change for your needs to find the assets!
-    path = "mod_assets/MPT/skinny_mc_mpt/"
+    path = "mod_assets/MPT/Skinny_MC_MPT/"
 
     # Of course, you can still change the layeredimage below to your taste, I tried my best to put
     # everything that would go well together, although there aren't that much expressions for that MC.

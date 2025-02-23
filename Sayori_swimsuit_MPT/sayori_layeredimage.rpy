@@ -1,5 +1,5 @@
 init python:
-    path = "mod_assets/MPT/sayori_swimsuit_MPT/" # I added this so that you can easily change the path of the swimsuit folder 
+    path = "mod_assets/MPT/Sayori_Swimsuit_MPT/" # I added this so that you can easily change the path of the swimsuit folder 
                                                 # once and for all instead of doing this for each attribute.
 
 layeredimage sayori turned: 

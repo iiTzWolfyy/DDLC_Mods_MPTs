@@ -3,7 +3,7 @@ CREDITS
 Make sure to credit:
 
 - Etched for making the original Yuri bikini sprite!
-- Me (as 'iitzwolfyytherenewal' on Discord or 'iiTzWolfyy' on Reddit, but preferably Discord)
+- Me, iitzwolfyy_ on Discord or iiTzWolfyy on Reddit, but preferably Discord
 
 ---------
 
@@ -13,7 +13,7 @@ I'll assume you already have the Yuri's MPT in your project, as well as a 'mod_a
 Another important thing, the syntax for this sprite is the same than the original MPT, except for the attributes
 'swimsuit' and 'eyes1'.
 
-Nothing special about the setup, just copy/paste the 'yuri_swimsuit_MPT' folder into your 'mod_assets/MPT/' folder.
+Nothing special about the setup, just copy/paste the 'Yuri_Swimsuit_MPT' folder into your 'mod_assets/MPT/' folder.
 
 If everything is okay, try using the following in your story:
 show yuri turned swimsuit happ at t11
