@@ -3,7 +3,7 @@
 ### This repository and its content is not affiliated in any way with Team Salvato.
 > Don't hesitate to check out the original DDLC game [here!](https://ddlc.moe/)
 
-This repository is meant to store all character MPTs I created for the DDMC (Doki Doki Modding Community.  
+This repository is meant to store all character MPTs I created for the DDMC (Doki Doki Modding Community).  
 It assumes the user is already familiar with the `layeredimage` feature of `Ren'Py`.
 
 ### These tools are only meant to be used by anyone who wanna create a DDLC mod and aren't meant to be used in any other type of project. Please check their [IP Guidelines](https://teamsalvato.com/ip-guidelines) if you haven't already.
