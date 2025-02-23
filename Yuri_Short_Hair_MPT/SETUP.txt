@@ -1,0 +1,5 @@
+To get this MPT to work, simply put the 'yuri_short_hair' folder into your 'mod_assets/MPT/' folder
+of your mod !
+
+Don't forget to see the credits_assets.txt file to properly credit each person that made
+that MPT possible, including myself, iiTzWolfyy :)

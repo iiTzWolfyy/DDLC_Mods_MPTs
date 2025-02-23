@@ -1,0 +1,55 @@
+CREDITS
+
+Make sure to credit:
+
+- Etched for making the original Monika bikini sprite!
+- Me (as 'iitzwolfyytherenewal' on Discord or 'iiTzWolfyy' on Reddit, but preferably Discord)
+
+There was supposed to be another one, but their account seem to be deleted on Reddit, even though they did
+many remakes of this sprite here...
+
+---------
+
+SETUP - Please make sure to contact me if you have any troubles with anything, using my contacts above :)
+
+Alright, onto the setup! Nothing really special, though you must be aware: this MPT uses the original Monika's MPT
+as well, but I guess since you're here, you probably have it already.
+
+Since I originally intended to do this MPT for the needs of a friend of mine, I edited directly his own
+monika_layeredimage.rpy file since that was the easiest solution. And you're basically gonna do the same as me!
+
+Don't worry, nothing too hard.
+
+1/ See that monika_layeredimage.rpy file in the folder? Open it, that's basically the original Monika's MPT to which
+I added the necessary things for the swimsuit outfit. Also open your own copy of the file next to it, you'll need it.
+
+You'll perhaps have different things in your own MPT depending on what outfits you may have added and all but that
+doesn't matter (or if you already have another swimsuit outfit for her in that file, you can basically change the
+'swimsuit' name I used in my rpy file with something else when you'll copy the necessary lines
+(be sure to change every occurrence of 'swimsuit'!).
+
+2/ See this 'path' variable? That's the default path of the 'monika_swimsuit' assets folder you have, that way you can
+change it easily (as I already wrote)
+
+3/ Now you'll see that in the file, I've written '###ADD' above multiple attributes. That's the attributes you'll
+have to add in the same place in your own monika_layeredimage.rpy file! I couldn't think of anything easier to do for ya!
+Only exception being the last layeredimage, you can completely copy/paste that one at the end of your file!
+
+TO BE MORE PRECISE!
+I also had to change the 'layeredimage monika forward' a little to make it work with the outfit, but nothing crazy dw.
+See that 'always "mod_assets/MPT/monika/monika_forward_facebase.png"' in the beginning of that layeredimage?
+Remove it and instead, add the group 'head' I wrote after the 'group right' :)
+If you've already had to remove it and put a 'group head' or something like that for your own purposes, then you can
+simply add the attribute related to the swimsuit outfit :)
+
+Last thing, you can (of course!) change the attributes names if you aren't feeling okay with it, for example if you don't
+like 'show monika lean swimsuit_cheek...' and want 'show monika lean swimsuit_handup...', simply go into the
+'monika lean' layeredimage and change the 'swimsuit_cheek' attribute with 'swimsuit_handup'!
+
+Anyway, I know this might've been waaaaaaay too long to read, but I just want to make sure you aren't messing things
+up with your files :Ehehe:
+
+Enjoy now! :D
+
+
+

@@ -1,0 +1,10 @@
+All credits go to u/anita6artania !!
+
+Also, it's not necessary, but really appreciated for you to credit me as 'u/iiTzWolfyy' on Reddit
+and/or my Discord, iitzwolfyytherenewal, for the edits that made that MPT possible!
+Examples: u/iiTzWolfyy for the Skinny MC MPT pack
+	  iitzwolfyytherenewal on Discord for the Skinny MC MPT pack
+
+I'll also repeat it here, but you can custom the layeredimage by adding/removing/editing things in the file!
+If you don't know how the layeredimages work, you can still take a look in the rpy file, I'm explaining
+there how it works :)

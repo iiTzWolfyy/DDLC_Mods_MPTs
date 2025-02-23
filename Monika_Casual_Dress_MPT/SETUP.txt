@@ -1,0 +1,105 @@
+Okay, first thanks for downloading this Monika MPT-compatible outfit! 
+Here are the (simple!!!) steps to install it properly, since you'll simply have to
+edit the original monika_layeredimage.rpy file.
+
+1/ CUT AND PASTE (or drag and drop) both 'monika_lean_eyes_e7.png' and 'monika_lean_mouth_m5.png' images
+in 'mod_assets/MPT/monika' folder, so that they're both with all the other images of Monika.
+Also, put the 'monika_casual_dress' folder in your game folder (best would be MPT or mod_assets).
+
+NOTE: this also implies that you have a 'mod_assets' folder and a 'MPT' folder into the 'mod_assets' one.
+
+2/ Open monika_layeredimage.rpy in the MPT folder, and take a look at the 'layeredimage monika forward:'
+
+3/ In the 'group outfit', add 'attribute dress null' or any other name that you'd like instead of 'dress'.
+	That's the new outfit we are defining.
+
+Note that if you decide to replace 'dress' with another name, make sure to also replace every occurrence of 'dress'
+in the following steps.
+
+4/In the 'group left', add, right under the last 'ldown' attribute: 
+
+	'attribute ldown default if_any(["dress"]):
+            "mod_assets/MPT/monika_casual_dress/1l.png"
+
+	Now for 'lpoint':
+
+	attribute lpoint if_any(["dress"]):
+            "mod_assets/MPT/monika_casual_dress/2l.png"
+
+5/Same as 4/ but for the group right this time (rdown and rhip respectively):
+
+	attribute rdown default if_any(["dress"]):
+            "mod_assets/MPT/monika_casual_dress/1r.png"
+
+	attribute rhip if_any(["dress"]):
+            "mod_assets/MPT/monika_casual_dress/2r.png"
+
+6/ Now go to the 'layeredimage monika lean' that is under the 'layeredimage monika forward'
+
+7/ Do the 3/ step again for this one
+
+8/ In the 'group mood', add 2 attributes: attribute vhapp null
+        				  attribute surp null
+
+9/ In the 'group body', add this: 
+
+	attribute body default if_any(["dress"]):
+            "mod_assets/MPT/monika_casual_dress/monika_lean_casual_body.png"
+
+10/ In the 'group head', add this:
+
+	attribute head default if_any(["dress"]):
+            "mod_assets/MPT/monika_casual_dress/monika_lean_casual_facebase.png"
+
+11/ In the 'group mouth', for the first 'attribute cm default if_any(["happ"]):', change it to this:
+	
+	attribute cm default if_any(["happ", "vhapp"]):
+
+	We're basically and simply adding the moods we defined in the 'group mood' so that the face will update 
+	accordingly.
+
+	Same for the second 'attribute cm':
+
+ 		attribute cm default if_any(["neut","angr","anno", "surp"]):
+
+
+	Now for the 'attribute om if_any(["happ"]), replace with:
+		attribute om if_any(["happ", "vhapp"]):
+
+	and add this new attribute under the 'om' ones:
+		
+	attribute om if_any(["surp"]):
+            "mod_assets/MPT/monika/monika_lean_mouth_m5.png"
+
+	This uses the new mouth that was in the folder.
+
+	You can add the truncated tag of that new mouth by defining it under 'attribute m4':
+
+	attribute m5:
+            "mod_assets/MPT/monika/monika_lean_mouth_m5.png"
+
+
+	WE'RE ALMOST DONE DON'T WORRY ABOUT IT!! :)
+
+12/ In the 'group eyes', replace 'attribute ce if_any(["neut","angr","anno"])' with:
+	
+	attribute ce if_any(["neut","angr","anno", "surp"]):
+
+	Now, define a new attribute that will use the eyes image that was in the folder as well:
+
+	attribute ce if_any(["vhapp"]):
+            "mod_assets/MPT/monika/monika_lean_eyes_e7.png"
+
+	For the truncated tag, add under the 'attribute e6':
+		
+	attribute e7:
+            "mod_assets/MPT/monika/monika_lean_eyes_e7.png"
+
+LAST STEP: In the 'group eyebrows', instead of 'attribute brow default if_any(["happ","neut"]):', replace with:
+
+	attribute brow default if_any(["happ","neut", "vhapp", "surp"]):
+
+And...done! You have your beautiful dress for your dear Monika :) 
+If you were to have any issues or trouble, don't hesitate to contact me on Discord: iitzwolfyytherenewal or
+Reddit: u/iiTzWolfyy :)
+

@@ -1,0 +1,18 @@
+Please credit me and the original artists of the sprite as the following in your credits file:
+
+FeMC MPT pack : iitzwolfyy_ on Discord
+Sprite commissioned by : BlackRabbitArtworks
+Design of the sprite : MW Roach
+
+
+Anyway, you'll only need to drop the FeMC_MPT folder into your 'mod_assets/MPT/' folder!
+
+Also, if for some reason you need/want to change the path of that 
+same folder, you can change it in the femc_layeredimage.rpy file!
+
+I strongly recommend you to read the layeredimage file since I wrote multiple 
+comments in the layeredimage to help you know which attribute corresponds to which type of expression.
+
+If you have any issue, contact me on my Discord mentioned above.
+
+Anyway, enjoy FeMC MPT pack!

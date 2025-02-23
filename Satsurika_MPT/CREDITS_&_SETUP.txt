@@ -1,0 +1,15 @@
+Credits using the following lines:
+    - AjTheFunky & Ein Had A Motive for the original Satsurika sprite
+    - iiTzWolfyy (iitzwolfyy_ on Discord) for the MPT-compatible version of Satsurika!
+
+To use the MPT, just put the "Satsurika_MPT" folder into your "mod_assets/MPT/"
+folder! If you want to change the location of that MPT in your project, let's say
+you want to put it into your "mod_assets/sprites/" folder, you'll just have to change
+the 'path' variable in the layeredimage file accordingly!
+
+Satsurika can blink, but it's disabled by default. To enable it, check the group blink
+in her layeredimage file. Last thing, no need for a 'turned' or 'forward' keyword, as
+she only has one layeredimage defined.
+
+As always, if you have any issues or questions regarding the MPT, please contact me on 
+my Discord mentioned above!

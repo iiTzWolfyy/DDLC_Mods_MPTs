@@ -1,0 +1,16 @@
+If you want to use Natsuri, please credit these people:
+
+	Hoeruko - Character design
+	IanSuller_blogger/Ein had a Motive & Ceaser Madrazo - Sprite Set
+	Matic - Casual outfit and sprite edits
+	iiTzWolfyy (iitzwolfyy_ on Discord) for the entire MPT pack and the code
+
+As always, just copy/paste the Natsuri_MPT folder inside your mod_assets/MPT/ folder!
+If you don't have the MPT folder or wanna change the path to the Natsuri_MPT folder,
+just change the first variable in natsuri_layeredimage.rpy.
+There is a ton of info and explanations in the layeredimage file, so don't hesitate
+to take a look at it. 
+Also, I recommend using Exposer Previewer to make your expressions quickly and easily.
+
+Don't hesitate to come to me on my Discord mentioned above for any questions or if
+you have any troubles.

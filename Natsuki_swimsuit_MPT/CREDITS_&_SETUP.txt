@@ -1,0 +1,28 @@
+CREDITS
+
+Make sure to credit:
+
+- Etched for making the original Natsuki bikini sprite!
+- Me (as 'iitzwolfyytherenewal' on Discord or 'iiTzWolfyy' on Reddit, but preferably Discord)
+
+---------
+
+SETUP - Please make sure to contact me if you have any troubles with anything, using my contacts above :)
+
+I'll assume you already have the Natsuki's MPT in your project, as well as a 'mod_assets/MPT/' folder.
+Another important thing, the syntax for this sprite is the same than the original MPT, except for the attributes
+'swimsuit', 'eyes1' and 'eyes2'.
+
+Nothing special about the setup, just copy/paste the 'natsuki_swimsuit_MPT' folder into your 'mod_assets/MPT/' folder.
+
+If everything is okay, try using the following in your story:
+show natsuki turned swimsuit lpoint rhip happ at t11
+
+If Natsuki shows up in her swimsuit with a happy mood, her left hand pointing up and her right hand on
+her hip, then that's perfect!
+
+Note: there are 2 extra eyes associated with Natsuki's turned expression, which are called 'eyes1' and 'eyes2'.
+You can use both of them by writing those attributes down, for example like below:
+show natsuki turned swimsuit happ eyes1 (or eyes2) at t11
+
+Enjoy now! :D

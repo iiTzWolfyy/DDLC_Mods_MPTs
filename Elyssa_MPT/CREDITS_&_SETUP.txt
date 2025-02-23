@@ -1,0 +1,33 @@
+Please Credit the original Elyssa sprite as follows:
+
+Elyssa sprite:
+    Made by:
+        u/Azrathas
+    Assets by:
+        u/MorteNexus 
+        u/SlightlySimple
+        u/Meddy-sin
+
+As for the MPT, you must credit me, as follows:
+Elyssa's MPT Sprite pack: iitzwolfyy_ (Discord) ; u/iiTzWolfyy (Reddit)
+
+-----
+
+SETUP
+
+That's pretty easy, just copy/paste the 'Elyssa_MPT' folder into your 'mod_assets/MPT/' folder! 
+In case you don't have a MPT folder, you can just drop the folder in the mod_assets and 
+change the 'base_path' variable in the elyssa_layeredimage.rpy file so that it's just:
+base_path = "mod_assets/Elyssa_MPT/".
+
+You can either use the Exposer Previewer feature to easily preview Elyssa and customize her sprite,
+or use her layeredimage with the attributes in it. I'll perhaps release a cheat sheet of her sprite in 
+the near future.
+
+Note: Some attributes in the Exposer previewer will display nothing, for example the 'rup' attribute for
+her right arm on her uniform outfit. That's just because every single attribute is in the same group left,
+so it doesn't care about which outfit has which attributes (Elyssa doesn't have an 'rup' attribute for her uniform).
+
+If you have any questions or issues with the pack, don't hesitate to contact me on my Discord mentioned above!
+
+Enjoy the pack! :D
