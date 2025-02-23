@@ -38,7 +38,7 @@ For that, the user can always check the character's `layeredimage.rpy` file prov
 9. **Wallace Reborn** (or Remake, it's whatever) with two different uniforms.
 10. **FeMC Switcheroo** with multiple outfits.
 11. **Elyssa** with uniform, casual, green vest (worn and on her waistline), laboratory and white shirt outfits.
-12. **Messy Black Hair MC** with uniform and black hoodie outfits.
+12. **Messy Black Hair MC** with uniform and black hoodie outfits (only a rehost, it hasn't been made by me).
 13. **Satsurika** (mix of the 4 original dokis with bright pink hair, **don't ask me why this exists nor why I made it**) with uniform and casual outfits.
 14. **Natsuri** (mix of Natsuki and Yuri) with uniform, dark pink sweater, white shirt and green shirt outfits.
 
