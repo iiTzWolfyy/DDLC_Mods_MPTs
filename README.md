@@ -52,4 +52,6 @@ For that, the user can always check the character's `layeredimage.rpy` file prov
 
 ### Please refer to the `Releases` page for the downloads!
 
+To make the MPT usage more easy for you, I'd recommend using `Exposer Previewer`, which allows you to preview the character's pose and expression, and copy/paste it to your story! You can find it [here!](https://github.com/Bronya-Rand/ExPoser-Previewer)
+
 ### Enjoy!
