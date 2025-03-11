@@ -123,9 +123,9 @@ layeredimage satsurika:
             casual_path + "1r.png"
 
         #Right arm on the hip
-        attribute rhip default if_any(["uniform"]):
+        attribute rhip if_any(["uniform"]):
             uniform_path + "2r.png"
-        attribute rhip default if_any(["casual"]):
+        attribute rhip if_any(["casual"]):
             casual_path + "2r.png"
 
     #Nose group (in order: no blush/awkward/blush/blush & awkward)
